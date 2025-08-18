@@ -1,16 +1,103 @@
 ## Hi there 👋
 
-<!--
-**dps1984/dps1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+👋 Hi, I'm Daniel Pacheco, currently a **Business Analyst at Arval** and an aspiring **Data Scientist**.  
+I document part of my autonomous learning journey in **Data Science, Python, SQL, Machine Learning, and Data Visualization**, combining business knowledge with technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Learning Journey
+I am continuously improving my skills through:
+- Online courses, certifications, and hands-on exercises in Python, SQL, Machine Learning, and Data Analysis.  
+- Practical projects applying analytics to real or simulated datasets.  
+- Automation scripts and data pipelines to solve business problems efficiently.  
+- Active exploration of new tools, frameworks, and libraries in Data Science.
+
+---
+
+## 💻 Skills
+
+### Programming & Data
+**Foundations / Some Experience:**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (queries, joins, aggregations)  
+- Excel & Power Query  
+
+**Learning / In Progress:**  
+- Advanced Python libraries (scikit-learn, TensorFlow, Keras)  
+- Automation with APIs and web scraping  
+
+---
+
+### Data Science & Machine Learning
+**Foundations / Some Experience:**  
+- Regression, Classification, Clustering  
+- Data Cleaning & Feature Engineering  
+- Model evaluation and interpretation  
+
+**Learning / In Progress:**  
+- Deep Learning (neural networks, TensorFlow/Keras)  
+- Natural Language Processing (NLP)  
+- Advanced feature engineering & model optimization  
+
+---
+
+### Tools & Platforms
+**Foundations / Some Experience:**  
+- Jupyter Notebook, Git/GitHub  
+- Tableau / Power BI (visualization & dashboards)  
+- Basic automation workflows  
+
+**Learning / In Progress:**  
+- Cloud basics (AWS, GCP, Azure)  
+- Data pipelines and ETL processes  
+
+---
+
+### Soft Skills
+- Business Analysis and problem-solving  
+- Communication and presentation of insights  
+- Project management and cross-team collaboration  
+- Critical thinking, adaptability, and time management
+
+---
+
+## 📂 Projects
+I use this GitHub to share:
+
+### 1. **Certifications & Exercises**
+- Exercises, notebooks, and scripts from courses.  
+- Demonstrates learning progress and mastery of fundamentals.
+
+### 2. **Data Projects**
+- Complete projects with datasets, analysis, visualizations, and insights.  
+- Examples: Sales forecasting, customer segmentation, churn prediction, automated reporting pipelines.
+
+### 3. **Mini Projects & Challenges**
+- Kaggle exercises, small ML scripts, automation scripts.  
+- Showcases experimentation, curiosity, and practical application.
+
+---
+
+## 🚀 Goals
+- Transition into a **technical Data Scientist role**.  
+- Document part of my learning journey, projects, and certifications here.  
+- Contribute to open-source projects and collaborate with the Data Science community.  
+- Build a portfolio that demonstrates both **technical expertise** and **business understanding**.
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)  
+- [GitHub](https://github.com/dps1984)
+
+---
+
+## ⚡ Quick Facts
+- Current role: Business Analyst at Arval  
+- Experience: Data Analysis, Reporting, Python Automation, SQL  
+- Languages: Spanish (native), English (B2)  
+- Interests: Machine Learning, Data Visualization, Automation, AI
+
