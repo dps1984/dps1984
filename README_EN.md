@@ -5,7 +5,7 @@
 # About Me
 
 👋 Hi, I'm Daniel Pacheco, currently a **Business Analyst at Arval** and an aspiring **Data Scientist**.  
-I hold a ** Private Master in Data Science and Big Data**, and here I document part of my ongoing learning journey in **Data Science, Python, SQL, Machine Learning, and Data Visualization**, combining the experience gained during the master’s program with practical projects and self-directed exercises.
+I hold a **Private Master in Data Science and Big Data**, and here I document part of my ongoing learning journey in **Data Science, Python, SQL, Machine Learning, and Data Visualization**, combining the experience gained during the master’s program with practical projects and self-directed exercises.
 
 
 ---
