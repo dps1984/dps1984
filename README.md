@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-**[🇬🇧 Versión en Inglés / English Version](README.md)**
+**[![English](https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg)](README.md)**
 
 # Sobre mí
 
