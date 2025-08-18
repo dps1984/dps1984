@@ -1,6 +1,6 @@
 ## ¡Hola! 👋
 
-**[Versión en Inglés / English Version](README.md)**
+**[🇬🇧 Versión en Inglés / English Version](README.md)**
 
 # Sobre mí
 
