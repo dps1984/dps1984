@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**[Versión en Español / Spanish Version](README.md)**
+
 # About Me
 
 👋 Hi, I'm Daniel Pacheco, currently a **Business Analyst at Arval** and an aspiring **Data Scientist**.  
