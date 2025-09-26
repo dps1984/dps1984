@@ -1,62 +1,63 @@
-# 👋 Hi, I'm Daniel Pacheco  
-[Versión en Español / Spanish Version](README.md)
+## Hi there! 👋
+
+**[Versión en Español](README.md)**
+
+# About me
+
+👋 Hi, I'm **Daniel Pacheco**, currently working as a **Business Analyst at Arval**.  
+I hold a **Master’s in Data Science & Big Data**, and I am consolidating my transition into a **Data Scientist role**, combining my background in business analysis and the automotive sector with hands-on projects in **Machine Learning, Python, and SQL**.
+
+This repository works as my **technical portfolio**, where I showcase how I apply **Data Science, ML, and automation** techniques to solve real-world business problems.
 
 ---
 
-## 💡 About me  
-I am a **Data Scientist in development**, with experience as a **Business Data Analyst at Arval** and a **Master’s degree in Data Science & Big Data**.  
-I combine business understanding with technical skills in **Python, SQL, Machine Learning and Big Data**, developing projects that range from predictive models to automation processes and data visualization.  
-
-Currently expanding my portfolio with practical projects in **Machine Learning, Deep Learning, and Spark**, aimed at showcasing both technical expertise and real business impact.  
-
----
-
-## 🚀 Goals  
-- Consolidate my career path towards a **Data Scientist role**.  
-- Deliver projects that demonstrate both **technical expertise and business value**.  
-- Apply **ML and automation** to solve real business problems.  
-- Keep learning about **Cloud environments (AWS/GCP/Azure)** and their integration with data workflows.  
+# 🎯 Objectives
+- Consolidate my transition to a **Data Scientist role**.  
+- Document practical projects and applied use cases.  
+- Deepen knowledge in **Machine Learning, Deep Learning, and cloud data processing**.  
+- Deliver solutions that combine **business expertise** with **technical rigor**.  
 
 ---
 
-## 🛠️ Skills  
+# 💻 Skills
 
-### Programming & Data  
-- Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)  
+### Programming & Data
+- Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)  
 - SQL (queries, joins, aggregations)  
 - Excel & Power Query  
+- Power BI / Tableau  
 
-### Machine Learning  
-- Regression, Classification, Clustering  
-- Model evaluation (ROC AUC, PR AUC, F1-score)  
-- Feature engineering and preprocessing pipelines  
+### Data Science & ML
+- Supervised and unsupervised models (regression, classification, clustering)  
+- Feature engineering and variable selection  
+- Model evaluation & optimization (GridSearchCV, cross-validation)  
+- Basic Deep Learning (CNN, Keras/TensorFlow)  
 
-### Big Data & Cloud  
-- PySpark (ETL, streaming basics)  
-- Basic exposure to Cloud (AWS, GCP, Azure)  
+### Tools & Platforms
+- Jupyter Notebook, Git/GitHub  
+- Spark (distributed processing)  
+- Data pipelines & ETL processes  
+- Basic Cloud concepts (AWS/GCP/Azure)  
 
-### Visualization & Reporting  
-- Power BI, Tableau  
-- Data storytelling & business reporting  
-
-### Other  
-- Git/GitHub (version control, project structuring)  
-- Automation scripts (APIs, data pipelines)  
-
----
-
-## 📂 Featured Projects  
-
-- [📊 Employee Churn Prediction](https://github.com/dps1984/rotacion-empleados)  
-  Logistic Regression vs Random Forest to predict employee attrition, with threshold analysis and actionable insights for HR.  
-
-- 🏠 Real Estate Price Prediction *(coming soon)*  
-- 🤖 Image Classification with CNNs *(coming soon)*  
-- 📡 Spark Streaming ETL + Power BI Dashboard *(coming soon)*  
+### Soft Skills
+- Business analysis & problem solving  
+- Communicating insights to non-technical stakeholders  
+- Team collaboration across functions  
+- Critical thinking & adaptability  
 
 ---
 
-## 📫 Contact  
+# 📂 Highlighted Projects
+- ✅ **Employee churn prediction (ML)** → Classifying employees at risk of leaving.  
+- 🔄 **Real Estate** (in progress) → Housing price prediction with regression.  
+- 🔄 **Practical clustering** (in progress) → Customer segmentation with K-means and visualization.  
+- 🔄 **CNN for images** (in progress) → Image classification using neural networks.  
+- 🔄 **Spark Streaming** (in progress) → Real-time data processing and analysis.  
+
+---
+
+# 🚀 Contact
 - [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)  
-- [GitHub](https://github.com/dps1984)  
+- [GitHub](https://github.com/dps1984)
+
 
