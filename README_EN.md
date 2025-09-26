@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Daniel Pacheco  
-[Versión en Español / Spanish Version](README_ES.md)
+[Versión en Español / Spanish Version](README.md)
 
 ---
 
