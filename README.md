@@ -1,61 +1,63 @@
-# 👋 Hola, soy Daniel Pacheco  
-[English Version](README_EN.md)
+## ¡Hola! 👋
+
+**[English Version](README_EN.md)**
+
+# Sobre mí
+
+👋 Hola, soy **Daniel Pacheco**, actualmente **Business Analyst en Arval**.  
+Cuento con un **Máster en Data Science y Big Data** y estoy consolidando mi transición hacia un **rol de Data Scientist**, combinando mi experiencia previa en análisis de negocio y sector automoción con proyectos prácticos en **Machine Learning, Python y SQL**.
+
+Este repositorio funciona como mi **portfolio técnico**, donde muestro cómo aplico técnicas de **Data Science, ML y automatización** para resolver problemas reales de negocio.
 
 ---
 
-## 💡 Sobre mí  
-Soy **Data Scientist en desarrollo**, con experiencia como **Business Data Analyst en Arval** y un **Máster en Data Science & Big Data**.  
-Combino la visión de negocio con habilidades técnicas en **Python, SQL, Machine Learning y Big Data**, desarrollando proyectos que van desde modelos predictivos hasta procesos de automatización y visualización de datos.  
-
-Actualmente estoy ampliando mi portfolio con proyectos prácticos en **Machine Learning, Deep Learning y Spark**, orientados a demostrar tanto capacidad técnica como aplicabilidad real en problemas de negocio.  
-
----
-
-## 🚀 Objetivos  
-- Consolidar mi trayectoria hacia un rol de **Data Scientist**.  
-- Desarrollar proyectos que combinen **expertise técnico y valor de negocio**.  
-- Aplicar **Machine Learning y automatización** para resolver problemas reales de empresa.  
-- Seguir aprendiendo sobre **entornos Cloud (AWS/GCP/Azure)** y su integración con flujos de datos.  
+# 🎯 Objetivos
+- Consolidar mi paso a un **rol de Data Scientist**.  
+- Documentar proyectos prácticos y casos de uso aplicados.  
+- Profundizar en **Machine Learning, Deep Learning y procesamiento de datos en la nube**.  
+- Aportar soluciones que unan **experiencia de negocio** y **rigor técnico**.  
 
 ---
 
-## 🛠️ Habilidades  
+# 💻 Habilidades
 
-### Programación y Datos  
-- Python (Pandas, NumPy, scikit-learn, Matplotlib, Seaborn)  
+### Programación y Datos
+- Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)  
 - SQL (consultas, joins, agregaciones)  
 - Excel & Power Query  
+- Power BI / Tableau  
 
-### Machine Learning  
-- Regresión, Clasificación, Clustering  
-- Evaluación de modelos (ROC AUC, PR AUC, F1-score)  
-- Feature engineering y pipelines de preprocesado  
+### Ciencia de Datos y ML
+- Modelos supervisados y no supervisados (regresión, clasificación, clustering)  
+- Feature engineering y selección de variables  
+- Evaluación y optimización de modelos (GridSearchCV, validación cruzada)  
+- Deep Learning básico (CNN, Keras/TensorFlow)  
 
-### Big Data y Cloud  
-- PySpark (ETL, fundamentos de streaming)  
-- Conocimientos básicos de Cloud (AWS, GCP, Azure)  
+### Herramientas y Plataformas
+- Jupyter Notebook, Git/GitHub  
+- Spark (procesamiento distribuido)  
+- Pipelines de datos y ETL  
+- Nociones de Cloud (AWS/GCP/Azure)  
 
-### Visualización y Reporting  
-- Power BI, Tableau  
-- Data storytelling y reporting de negocio  
-
-### Otros  
-- Git/GitHub (control de versiones, estructuración de proyectos)  
-- Scripts de automatización (APIs, pipelines de datos)  
-
----
-
-## 📂 Proyectos destacados  
-
-- [📊 Predicción de rotación de empleados](https://github.com/dps1984/rotacion-empleados)  
-  Comparativa entre Regresión Logística y Random Forest para predecir la rotación de empleados, con análisis de thresholds y conclusiones accionables para RRHH.  
-
-- 🏠 Predicción de precios de viviendas *(próximamente)*  
-- 🤖 Clasificación de imágenes con CNNs *(próximamente)*  
-- 📡 ETL con Spark Streaming + dashboard en Power BI *(próximamente)*  
+### Habilidades blandas
+- Análisis de negocio y resolución de problemas  
+- Comunicación de resultados a no técnicos  
+- Colaboración en equipos multidisciplinares  
+- Pensamiento crítico y adaptabilidad  
 
 ---
 
-## 📫 Contacto  
+# 📂 Proyectos destacados
+- ✅ **Rotación de empleados (ML)** → Clasificación de empleados en riesgo de abandono.  
+- 🔄 **Real Estate** (en preparación) → Predicción de precios de vivienda con regresión.  
+- 🔄 **Clustering práctico** (en preparación) → Segmentación de clientes con K-means y visualización.  
+- 🔄 **CNN en imágenes** (en preparación) → Clasificación de imágenes usando redes neuronales.  
+- 🔄 **Spark Streaming** (en preparación) → Procesamiento de datos en streaming y análisis en tiempo real.  .  
+
+
+---
+
+# 🚀 Contacto
 - [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)  
-- [GitHub](https://github.com/dps1984)  
+- [GitHub](https://github.com/dps1984)
+
