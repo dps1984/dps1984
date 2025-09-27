@@ -4,10 +4,10 @@
 
 # Sobre mí
 
-👋 Hola, soy **Daniel Pacheco**, actualmente **Business Analyst en Arval**.  
-Cuento con un **Máster en Data Science y Big Data** y estoy consolidando mi transición hacia un **rol de Data Scientist**, combinando mi experiencia previa en análisis de negocio y sector automoción con proyectos prácticos en **Machine Learning, Python y SQL**.
+👋 Hola, soy **Daniel Pacheco**, actualmente **Business Analyst en Arval**, con formación en **Data Science y Big Data**.  
+Combino mi experiencia en análisis de negocio y sector automoción con proyectos prácticos en **Machine Learning, Python y SQL**, aplicados a problemas reales de negocio.  
 
-Este repositorio funciona como mi **portfolio técnico**, donde muestro cómo aplico técnicas de **Data Science, ML y automatización** para resolver problemas reales de negocio.
+Este repositorio funciona como mi **portfolio técnico**, donde documento y comparto proyectos de **Data Science, ML y automatización**, con el objetivo de **consolidar mi transición hacia un rol de Data Scientist** y seguir creciendo profesionalmente en este ámbito.
 
 ---
 
