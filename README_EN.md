@@ -11,11 +11,13 @@ This repository serves as my **technical portfolio**, where I document and share
 
 ---
 
-# 🎯 Objectives
-- Consolidate my transition to a **Data Scientist role**.  
-- Document practical projects and applied use cases.  
-- Deepen knowledge in **Machine Learning, Deep Learning, and cloud data processing**.  
-- Deliver solutions that combine **business expertise** with **technical rigor**.  
+## 🎯 Objectives
+
+- Consolidate my transition into a **Data Scientist role**, leveraging my background in business analysis and the automotive sector.  
+- Document and share projects that showcase both **technical skills** (Python, SQL, Machine Learning, Deep Learning) and **business insight**.  
+- Expand knowledge in **ETL processes, automation, and Big Data frameworks (Spark)** to tackle larger-scale projects.  
+- Continue developing **data visualization and storytelling** skills to effectively communicate insights to different audiences.  
+- Collaborate on open-source projects and strengthen my presence in the **Data Science community**.
 
 ---
 
