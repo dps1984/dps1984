@@ -4,10 +4,10 @@
 
 # About me
 
-👋 Hi, I'm **Daniel Pacheco**, currently working as a **Business Analyst at Arval**.  
-I hold a **Master’s in Data Science & Big Data**, and I am consolidating my transition into a **Data Scientist role**, combining my background in business analysis and the automotive sector with hands-on projects in **Machine Learning, Python, and SQL**.
+👋 Hi, I'm **Daniel Pacheco**, currently working as a **Business Analyst at Arval**, with a strong background in **Data Science & Big Data**.  
+I combine my experience in business analysis and the automotive sector with hands-on projects in **Machine Learning, Python, and SQL**, applied to real-world business problems.  
 
-This repository works as my **technical portfolio**, where I showcase how I apply **Data Science, ML, and automation** techniques to solve real-world business problems.
+This repository serves as my **technical portfolio**, where I document and share projects in **Data Science, Machine Learning, and automation**, with the goal of **consolidating my transition into a Data Scientist role** and continuing to grow professionally in this field.
 
 ---
 
