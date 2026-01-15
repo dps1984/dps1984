@@ -4,10 +4,6 @@
 
 # Sobre mí
 
-## ¡Hola! 👋
-
-# Sobre mí
-
 👋 Hola, soy **Daniel Pacheco**, **Senior Data Analyst / Business Analyst**, con un fuerte enfoque en la **toma de decisiones basada en datos** y en el **impacto operativo real**.
 
 Combino analítica aplicada (Python, SQL, BI) con una sólida visión de negocio para diseñar soluciones prácticas que mejoran la eficiencia, la fiabilidad del dato y los resultados a nivel de producto u operaciones.
