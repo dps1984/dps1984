@@ -4,61 +4,29 @@
 
 # Sobre mí
 
-👋 Hola, soy **Daniel Pacheco**, actualmente **Business Analyst en Arval**, con formación en **Data Science y Big Data**.  
-Combino mi experiencia en análisis de negocio y sector automoción con proyectos prácticos en **Machine Learning, Python y SQL**, aplicados a problemas reales de negocio.  
+## ¡Hola! 👋
 
-Este repositorio funciona como mi **portfolio técnico**, donde documento y comparto proyectos de **Data Science, ML y automatización**, con el objetivo de **consolidar mi transición hacia un rol de Data Scientist** y seguir creciendo profesionalmente en este ámbito.
+# Sobre mí
 
----
+👋 Hola, soy **Daniel Pacheco**, **Senior Data Analyst / Business Analyst**, con un fuerte enfoque en la **toma de decisiones basada en datos** y en el **impacto operativo real**.
 
-## 🎯 Objetivos
+Combino analítica aplicada (Python, SQL, BI) con una sólida visión de negocio para diseñar soluciones prácticas que mejoran la eficiencia, la fiabilidad del dato y los resultados a nivel de producto u operaciones.
 
-- Consolidar mi transición hacia un **rol de Data Scientist**, apoyándome en mi experiencia en análisis de negocio y sector automoción.  
-- Documentar y compartir proyectos que demuestren tanto **habilidades técnicas** (Python, SQL, Machine Learning, Deep Learning) como **visión de negocio**.  
-- Ampliar conocimientos en **procesos ETL, automatización y frameworks de Big Data (Spark)** para abordar proyectos de mayor escala.  
-- Seguir desarrollándome en **visualización y storytelling con datos** para comunicar insights de manera efectiva a distintos públicos.  
-- Colaborar en proyectos open-source y fortalecer mi perfil en la comunidad de **Data Science**.
----
+Este repositorio funciona como un **portfolio analítico práctico**, donde recopilo proyectos enfocados en:
+- Análisis de datos aplicado y soporte a la toma de decisiones  
+- Modelos predictivos utilizados para apoyar decisiones de negocio y operaciones  
+- Automatización y pipelines de datos para reducir trabajo manual y errores  
 
-# 💻 Habilidades
+🎯 Enfoque
+- Soporte a la toma de decisiones en contextos reales de negocio  
+- Conversión de datos en insights accionables para equipos de producto y operaciones  
+- Comunicación clara y colaboración con perfiles no técnicos  
 
-### Programación y Datos
-- Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn)  
-- SQL (consultas, joins, agregaciones)  
-- Excel & Power Query  
-- Power BI / Tableau  
+📂 Proyectos destacados
+✅ **Predicción de rotación de empleados** – Modelo de clasificación aplicado para identificar empleados en riesgo de abandono, con foco en interpretabilidad y uso práctico en negocio.
 
-### Ciencia de Datos y ML
-- Modelos supervisados y no supervisados (regresión, clasificación, clustering)  
-- Feature engineering y selección de variables  
-- Evaluación y optimización de modelos (GridSearchCV, validación cruzada)  
-- Deep Learning básico (CNN, Keras/TensorFlow)  
-
-### Herramientas y Plataformas
-- Jupyter Notebook, Git/GitHub  
-- Spark (procesamiento distribuido)  
-- Pipelines de datos y ETL  
-- Nociones de Cloud (AWS/GCP/Azure)  
-
-### Habilidades blandas
-- Análisis de negocio y resolución de problemas  
-- Comunicación de resultados a no técnicos  
-- Colaboración en equipos multidisciplinares  
-- Pensamiento crítico y adaptabilidad  
-
----
-
-# 📂 Proyectos destacados
-- ✅ **Rotación de empleados (ML)** → Clasificación de empleados en riesgo de abandono.  
-- 🔄 **Real Estate** (en preparación) → Predicción de precios de vivienda con regresión.  
-- 🔄 **Clustering práctico** (en preparación) → Segmentación de clientes con K-means y visualización.  
-- 🔄 **CNN en imágenes** (en preparación) → Clasificación de imágenes usando redes neuronales.  
-- 🔄 **Spark Streaming** (en preparación) → Procesamiento de datos en streaming y análisis en tiempo real.  .  
-
-
----
+Se están desarrollando proyectos adicionales para seguir explorando analítica aplicada y casos de automatización.
 
 # 🚀 Contacto
-- [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)
 - [GitHub](https://github.com/dps1984)
-
