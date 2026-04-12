@@ -30,3 +30,6 @@ Classification model aimed at identifying employees at risk of leaving, with a f
 ## 🚀 Goal
 
 To continue building practical projects that connect data and business, delivering real impact in processes and decision-making.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/daniel-pacheco-santamaria
