@@ -30,3 +30,6 @@ Modelo de clasificación orientado a identificar empleados en riesgo de abandono
 ## 🚀 Objetivo
 
 Seguir desarrollando proyectos prácticos que conecten datos y negocio, con impacto real en procesos y toma de decisiones.
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/daniel-pacheco-santamaria
