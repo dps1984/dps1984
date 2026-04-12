@@ -4,27 +4,29 @@
 
 # About me
 
-👋 Hi, I'm Daniel Pacheco, a Senior Data Analyst / Business Analyst with a strong focus on data-driven decision-making and operational impact.
+Data Analyst focused on Python, SQL, and business-oriented automation.
 
-I combine hands-on analytics (Python, SQL, BI) with a solid business background to design practical solutions that improve efficiency, data reliability, and product or operational outcomes.
+This repository contains practical projects focused on data analysis and process improvement through simple, applicable solutions.
 
-This repository serves as a practical analytics portfolio, showcasing projects focused on:
-- Applied data analysis and predictive modeling
-- Automation and data pipelines
-- Translating business problems into analytical solutions
+## 🎯 Focus
 
-🎯 Focus
-- Decision support and analytics in real-world business contexts
-- Applied predictive models to support operational and people-related decisions
-- Data exploration, validation, and storytelling
+- Data analysis applied to business problems
+- Process automation
+- Data quality improvement
+- Generating actionable insights
 
-📂 Highlighted Projects
-✅ Employee Churn Prediction – Applied classification model to identify employees at risk of leaving, with a focus on interpretability and business use cases.
+## 🛠️ Main stack
 
-Additional projects are continuously being developed to explore applied analytics techniques and automation use cases.
+- Python (pandas, automation)
+- SQL
+- Power BI
+- Excel
 
-# 🚀 Contact
-- [LinkedIn](https://www.linkedin.com/in/daniel-pacheco-santamaria/)  
-- [GitHub](https://github.com/dps1984)
+## 📂 Featured Project
 
+### Employee churn prediction
+Classification model aimed at identifying employees at risk of leaving, with a focus on interpretability and business use.
 
+## 🚀 Goal
+
+To continue building practical projects that connect data and business, delivering real impact in processes and decision-making.
